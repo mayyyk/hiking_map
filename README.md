@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/fe77de9626d24b6cbdccee0ba54708a4-with-play.gif)](https://www.loom.com/share/fe77de9626d24b6cbdccee0ba54708a4)
+<img width="2442" height="1272" alt="image" src="https://github.com/user-attachments/assets/89d70703-4ad8-4ddf-9b62-8b502cb8bb89" />
 
 ---
 
